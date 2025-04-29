@@ -9,7 +9,7 @@
 source:         _app
 destination:    _site
 timezone:       America/Los_Angeles
-permalink:      /:title.html
+permalink:      /:title/index.html
 markdown:       kramdown
 highlighter:    rouge
 include:        ["_pages"]
@@ -129,7 +129,7 @@ feed:           /feed.xml
 # URLs for these fields
 #
 # Default:      https://sparanoid.com
-url:            https://sparanoid.com
+url:            https://gabrieljonesdev.github.io
 
 # Media assets URL
 #
